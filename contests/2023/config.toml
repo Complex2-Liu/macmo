@@ -1,0 +1,15 @@
+font-size = "11pt"
+
+[document]
+title = "2023 年澳门校际数学比赛参考解答"
+# Support for UTF-8 in old-fashioned metadata of the PDF is limited,
+# but it performs well in new-style XMP metadata.
+author = [
+  "Complex2-Liu",
+]
+keywords = [
+  "Mathematics",
+  "Macau Mathematical Olympiad",
+]
+date = "auto"
+
